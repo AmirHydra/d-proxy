@@ -14,7 +14,7 @@
 ```
 git clone https://github.com/AmirHydra/d-proxy
 cd d-proxy
-python d-proxy.txt
+python d-proxy.py
 ```
 
 my friend : github.com/esfelurm
