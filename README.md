@@ -7,7 +7,11 @@ More than 10 `API` to get proxy list!
 - Https
 - Socks4
 - Socks5
-
+### Config List
+- Config v2ray
+- Trojan / SS
+- Shadow Socks
+- Random
 ### Support of operating systems :
 - windows
 - Linux
@@ -19,7 +23,19 @@ git clone https://github.com/AmirHydra/d-proxy
 cd d-proxy
 python d-proxy.py
 ```
+## Description of options 
+- 1 Download Proxy File Socks4 => Number of APIs : `13`
+- 2 Download Proxy File Socks5 => Number of APIs : `15`
+- 3 Download File Proxy Http / Https => Number of APIs : `35`
+- 4 Download File Proxy Https => Number of APIs : `2`
+- 5 Download File Config V2ray => Number of APIs : `9`
+- 6 Download File ShadowSocks => Number of APIs : `4`
+- 7 Download File Vless"{lrd}[
 
+
+
+
+=> Number of APIs : ``
 my friend : github.com/esfelurm
 
 
