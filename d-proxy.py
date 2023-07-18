@@ -241,7 +241,7 @@ print (f"""
 """)
 print (f"""
     {rd}| {gn}Socks4 {lrd}[{lgn}1{lrd}] {yw}-- {gn}Socks5 {lrd}[{lgn}2{lrd}] {yw}-- {gn}Http {lrd}[{lgn}3{lrd}]{yw} -- {gn}Https {lrd}[{lgn}4{lrd}] {yw}{rd}|
-\n{rd}    | {gn}Config {lrd}[{lgn}5{lrd}] {yw}-- {gn}Vless  {lrd}[{lgn}6{lrd}] {yw}-- {gn}TrSe {lrd}[{lgn}1{lrd}] {yw}-- {gn}RDM   {lrd}[{lgn}8{lrd}] {rd}|""")
+\n{rd}    | {gn}Config {lrd}[{lgn}5{lrd}] {yw}-- {gn}Vless  {lrd}[{lgn}6{lrd}] {yw}-- {gn}TrSe {lrd}[{lgn}7{lrd}] {yw}-- {gn}RDM   {lrd}[{lgn}8{lrd}] {rd}|""")
 
 proxy = input(f"\n{lrd}[{lgn}?{lrd}] {yw}Enter protocol : {cn}")
 Name_File = input(f"\n{lrd}[{lgn}+{lrd}] {cn}Please enter the path and name of the file you want the proxies to be saved in : ")
