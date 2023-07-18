@@ -2,11 +2,18 @@
 -----------------------------
 More than 10 `API` to get proxy list! 
 -----------------------------
+## Screen Shot Menu :
+<img src="screen/menu.jpg"/>
+
 ### Support of protocols :
 - Http
 - Https
 - Socks4
 - Socks5
+------------------------------------
+## Screen Shot Test Config :
+<img src="screen/test.jpg"/>
+
 ### Config List
 - Config v2ray
 - Trojan / SS
